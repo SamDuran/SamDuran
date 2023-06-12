@@ -1,6 +1,6 @@
 ## _Samuel De Jesús Durán Tejada | SamDuran_
 
-Hi there!, I'm a Systems engineering student. I live in San Francisco de Macoris, Dom Rep. My main language is Spanish but I can deal with a few of English.
+Hi there!, I'm a Systems engineering student. I live in San Francisco de Macoris, Dom Rep. My main language is Spanish but I can deal with a little of English.
 
 🔭 I’m currently working as developer in Soluciones Almonte Gil's development team.
 
