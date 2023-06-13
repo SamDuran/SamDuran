@@ -33,5 +33,5 @@ With knowledge in some programming languages, Structured Query Languages (SQL), 
 
 ## 📫 How to reach me:
 
-[Samuel Duran](https://web.facebook.com/samueldurantejada) in FaceBook
-[Samuel Duran](https://www.linkedin.com/in/samuel-durán-99b81527a/) in LinkedIn
+[Samuel Duran](https://web.facebook.com/samueldurantejada) in FaceBook | 
+[Samuel Duran](https://www.linkedin.com/in/samuel-durán-99b81527a/) in LinkedIn | SamiDT0186@gmail.com as Gmail
