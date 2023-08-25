@@ -12,11 +12,7 @@ With knowledge in some programming languages, Structured Query Languages (SQL), 
 
 <details>
  <summary><h3>🎖️ Values that I consider define me as a person</h3></summary>
-  - _Responsible_ 
- - _Honest_
- - _Respectful_
- - _Cheerful_
- - _Reliable_
+Responsible | Honest | Respectful | Cheerful | Reliable
 </details>
 
 
@@ -43,6 +39,7 @@ With knowledge in some programming languages, Structured Query Languages (SQL), 
 <img align="left" alt = "Python" width="40px" style = "padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
 <img align="left" alt = "Flutter"width="40px" style = "padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
 
+<br />
 ## 📫 How to reach me:
 
 [Samuel Duran](https://web.facebook.com/samueldurantejada) in FaceBook | [Samuel Duran](https://www.linkedin.com/in/samuel-durán-99b81527a/) in LinkedIn | SamiDT0186@gmail.com as Gmail
