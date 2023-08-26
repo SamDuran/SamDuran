@@ -30,6 +30,8 @@ Responsible | Honest | Respectful | Cheerful | Reliable
 <img align="left" alt = "MySql"  width="28px" style = "padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt = "SQL"    width="28px" style = "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
 
+
+<br />
 <br />
 
 
@@ -38,7 +40,7 @@ Responsible | Honest | Respectful | Cheerful | Reliable
 <img align="left" alt = "JS"     width="28px" style = "padding-right:15px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt = "TS"     width="28px" style = "padding-right:15px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img align="left" alt = "Python" width="28px" style = "padding-right:15px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-<img align="left" alt = "Flutter"width="28px" style = "padding-right:15px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
+<img align="left" alt = "Flutter"width="28px" style = "padding-right:15px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 
 <br />
 
