@@ -27,8 +27,8 @@ Responsible | Honest | Respectful | Cheerful | Reliable
 <img align="left" alt = "css"    width="28px" style = "padding-right:7px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt = "Figma"  width="28px" style = "padding-right:7px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <img align="left" alt = "Git"    width="28px" style = "padding-right:7px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt = "SQL"    width="28px" style = "padding-right:7px;" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg/>
 <img align="left" alt = "MySql"  width="28px" style = "padding-right:7px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="left" alt = "SQL"    width="28px" style = "padding-right:7px;" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg/>
 
 <br />
 
