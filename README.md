@@ -8,8 +8,9 @@ With knowledge in some programming languages, Structured Query Languages (SQL), 
 
 ### 📊 Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samduran&theme=one_dark_pro)
+
 ![SamDuran's Stats](https://github-readme-stats.vercel.app/api?username=samduran&show_icons=true&theme=one_dark_pro)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samduran&layout=compact&theme=one_dark_pro)
 
 <details>
  <summary><h3>🎖️ Values that I consider define me as a person</h3></summary>
