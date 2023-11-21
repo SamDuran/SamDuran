@@ -3,7 +3,7 @@
 
 Hi there!, I'm a Systems engineering student. I live in San Francisco de Macoris, Dominican Republic. 
 
-B1+ English skills.
+B2 English skills.
 With knowledge in some programming languages, Structured Query Languages (SQL), and a bit experienced as a UI designer. 
 
 ### 📊 Stats
