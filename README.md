@@ -1,7 +1,7 @@
 # ⚔️ Samuel De Jesús Durán Tejada  | SamDuran ⚔️
 **`Systems engineering & developer`**
 
-Hi there!, I'm a Systems engineering student. I live in San Francisco de Macoris, Dominican Republic. 
+Hi there!, I'm a Systems and computer science engineer. I live in San Francisco de Macoris, Dominican Republic. 
 
 B2 English skills.
 With knowledge in some programming languages, Structured Query Languages (SQL), and a bit experienced as a UI designer. 
@@ -10,13 +10,6 @@ With knowledge in some programming languages, Structured Query Languages (SQL), 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samduran&layout=pie&theme=tokyonight)
 ![SamDuran's Stats](https://github-readme-stats.vercel.app/api?username=samduran&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-
-<details>
- <summary><h3>🎖️ Values that I consider define me as a person</h3></summary>
-Responsible | Honest | Respectful | Cheerful | Reliable
-</details>
-
 
 ###  🛠️ ️Languages, Frameworks and Tools
 
@@ -42,7 +35,7 @@ Responsible | Honest | Respectful | Cheerful | Reliable
 <img align="left" alt = "JS"     width="28px" style = "padding-right:15px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt = "TS"     width="28px" style = "padding-right:15px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img align="left" alt = "Python" width="28px" style = "padding-right:15px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-<img align="left" alt = "Flutter"width="28px" style = "padding-right:15px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+<img align="left" alt = "Flutter" width="28px" style = "padding-right:15px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 
 <br />
 
