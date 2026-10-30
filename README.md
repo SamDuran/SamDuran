@@ -91,8 +91,8 @@ Interactive map to visualize clients and their balances. I rewrote and redesigne
 ### 📊 Stats
 
 <p align="center">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samduran&layout=compact&theme=tokyonight&hide_border=true" />
-  <img height="165" alt="SamDuran's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=samduran&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=issues,contribs&show=prs_merged" />
+  <img height="165" alt="Top languages" src="./profile/top-langs.svg" />
+  <img height="165" alt="SamDuran's GitHub stats" src="./profile/stats.svg" />
 </p>
 
 ### 📫 How to reach me
